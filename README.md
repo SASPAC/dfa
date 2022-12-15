@@ -11,3 +11,4 @@ SHA256 digest for the latest version of `DFA`: 6DEB02BE1C30453FBC688AF1F561709C7
 
 [**Documentation for DFA**](./dfa.md "Documentation for DFA")
 
+To work with a package use the [**SAS Packages Framework**](https://github.com/yabwon/SAS_PACKAGES/blob/main/README.md "SPFinit").
