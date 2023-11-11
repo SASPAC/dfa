@@ -7,7 +7,7 @@ a dynamically allocated array, a stack, a fifo queue, an ordered stack, and a pr
 
 Run `%helpPackage(DFA,createDFArray)` to find examples.
 
-SHA256 digest for the latest version of `DFA`: F*09EA5201360922A91A9EEE72F4567792E9CFDFB591BA33419E2BF2B31D9B7C62
+SHA256 digest for the latest version of `DFA`: F*012375D87F66EB3A7BF5DDD0CC5AEE28851733EE33CC63231DF9045BEB958168
 
 [**Documentation for DFA**](./dfa.md "Documentation for DFA")
 
